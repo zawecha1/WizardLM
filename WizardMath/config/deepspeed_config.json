@@ -6,7 +6,7 @@
             "pin_memory": false
         },
         "offload_param": {
-            "device": "cpu",
+            "device": "none",
             "pin_memory": false
         },
         "overlap_comm": true,
