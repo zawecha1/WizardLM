@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WizardCoder/data/humaneval.59.8.gen.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WizardCoder/data/humaneval_mbpp_wizardcoder33b_v1.1_results.zip!/" />
+      <root url="jar://$PROJECT_DIR$/WizardCoder/data/mbpp.test.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
