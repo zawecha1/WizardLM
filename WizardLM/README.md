@@ -177,7 +177,7 @@ deepspeed train_freeform.py \
     --data_path /path/to/alpaca_evol_instruct_70k.json \
     --output_dir /path/to/wizardlm-7B/hf/ft \
     --num_train_epochs 3 \
-    --model_max_length 2048 \
+    --model_max_length 800 \
     --per_device_train_batch_size 8 \
     --per_device_eval_batch_size 1 \
     --gradient_accumulation_steps 1 \

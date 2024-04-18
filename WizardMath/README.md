@@ -189,7 +189,7 @@ deepspeed train_wizardmath.py \
     --data_path  "/your/path/to/math_instruction_data.json"\
     --output_dir  "/your/path/to/save_ckpt"\
     --num_train_epochs 3 \
-    --model_max_length 2048 \
+    --model_max_length 800 \
     --per_device_train_batch_size 16 \
     --per_device_eval_batch_size 1 \
     --gradient_accumulation_steps 1 \
